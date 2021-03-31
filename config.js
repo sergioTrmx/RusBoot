@@ -4,12 +4,14 @@ const ownerNumber = ["557187645787@s.whatsapp.net"]
 const OriginalOwner = '557187645787' 
 // mude para seu numero
 
+const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
+// sua key do imgbb para ativar o antiporn
+
 const cr = '𝐁𝐑𝐈𝐙𝐀𝐒 𝐁𝐎𝐓\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
 // prefixo
-
 
 // MENSAGENS DE BAN
 
@@ -30,6 +32,12 @@ const banmsglink = 'Corra Membro comum, O ban está próximo...'
 
 const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
 // mensagem de quando adm manda link
+
+const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
+// mensagem de quando adm manda uma palavra proibida pelo bot
+
+const banmsgpalavra = 'Palavra proibida? Já sabe né'
+// mensagem de ban quando manda uma palavra proibida pelo bot
 
 
 // MENSAGENS DE BOM DIA BOA TARDE E BOA NOITE
@@ -105,6 +113,9 @@ const vcard = 'BEGIN:VCARD\n'
 
 // Nem ouse mexer aqui se n quiser que de erro
 
+exports.banmsgpalavra = banmsgpalavra
+exports.adminmsgpalavra = adminmsgpalavra
+exports.apikeyporn = apikeyporn
 exports.linkbotlindo = linkbotlindo
 exports.botlindo = botlindo
 exports.botfeio = botfeio
