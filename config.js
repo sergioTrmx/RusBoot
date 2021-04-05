@@ -80,8 +80,8 @@ const botfofo = 'Ojo 😳👉👈'
 const botbaianor = 'La tuya'
 const botcorno = 'Come verga'
 const botputa = 'Señora tu madre 😡'
-const botgay = 'Dijo que la manja rueda 😡'
-const botviado = 'Dijo que la manja rueda 😡'
+const botgay = 'Calla mongolo 😡'
+const botviado = 'Calla pvto 😡'
 const numbotfeio = 'dama tu madre 😡'
 // KEYS
 
